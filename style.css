@@ -1,0 +1,188 @@
+    div.blheader {
+        text-align: center;
+    }
+    
+    .nostyle {
+        list-style: none;
+        background-color: black;
+        height: 15px;
+        padding: 2px;
+    }
+    
+    .inline {
+        display: inline;
+        font-size: 11px;
+        padding-right: 10px;
+    }
+    
+    .noundeline {
+        text-decoration: none;
+        color: lightgray;
+    }
+    
+    .logo {
+        text-align: center;
+        display: block;
+    }
+    
+    .logo>div>a {
+        text-decoration: none;
+        color: gray;
+        font-size: 14px;
+    }
+    
+    div.nav {
+        margin: 20px;
+        border-bottom: 1px solid lightgray;
+    }
+    
+    .navul {
+        list-style: none;
+        height: 20px;
+    }
+    
+    .navli {
+        display: inline;
+        font-size: 11px;
+    }
+    
+    .navli>a {
+        padding: 5px;
+    }
+    
+    .navli>a:hover {
+        background-color: lightgray;
+        padding: 5px;
+    }
+    
+    .navred {
+        color: red !important;
+    }
+    
+    input.search {
+        padding: 0 !important;
+    }
+    
+    .navform {
+        display: inline;
+        padding-left: 60px !important;
+    }
+    
+    .nava {
+        text-decoration: none;
+        color: darkslategray;
+    }
+    
+    .news {
+        margin-left: 2%;
+        margin-right: 30%;
+    }
+    
+    .news>h1 {
+        border-bottom: 1px solid lightgray;
+        padding-bottom: 10px;
+        padding-top: 30px;
+    }
+    
+    .news>h1>a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .news>p {
+        color: black;
+        font-size: 14px;
+    }
+    
+    .news>p>a {
+        color: gray;
+        text-decoration: none;
+    }
+    
+    .social {
+        padding-left: 50%;
+    }
+    
+    .social>a {
+        text-decoration: none;
+        color: black;
+        font-size: 22px;
+    }
+    
+    .nimg {
+        width: 100%;
+    }
+    
+    div.desc>h3,
+    div.desc>p {
+        padding-right: 18%;
+        padding-left: 18%;
+        line-height: 30px;
+        font-size: 25px;
+    }
+    
+    div.desc>h3>a {
+        color: brown;
+    }
+    
+    div.desc>p>a {
+        color: brown;
+    }
+    
+    .sociallast {
+        border-bottom: 5px solid black;
+    }
+    
+    .form {
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+    
+    .enline,
+    .enline>div,
+    .enline>div {
+        display: inline;
+        padding-right: 15px;
+    }
+    
+    input {
+        padding: 10px;
+        border-color: lightgray;
+    }
+    
+    .formbr {
+        color: brown;
+    }
+    
+    button {
+        display: inline;
+        color: white;
+        background-color: black;
+    }
+    
+    p>button {
+        margin-left: 40%;
+        padding: 5px;
+        font-size: 20px;
+    }
+    
+    p>button:hover {
+        background-color: white;
+        color: black;
+    }
+    
+    p>button:active {
+        color: white;
+        background-color: black;
+    }
+    
+    .foot {
+        height: 50px;
+        background-color: black;
+        color: white;
+    }
+    
+    .foot>p {
+        padding: 15px;
+        font-size: 20px;
+    }
